@@ -1,5 +1,5 @@
 # cypress-framework
-A UI Testing Framework based on Cypress
+A UI Testing Framework based on Cypress. Documentation: https://docs.cypress.io/app/get-started/why-cypress
 
 - Uses the nvm node version manager on MacOS and Linux
 - Requires make, nvm, node, npm
