@@ -1,5 +1,10 @@
 # cypress-framework
-A UI Testing Framework based on Cypress. Documentation: https://docs.cypress.io/app/get-started/why-cypress
+A UI Testing Framework based on Cypress. 
+
+# Documentation
+
+cypress.io -  https://docs.cypress.io/app/get-started/why-cypress
+nodejs     -  https://nodejs.org/en/download/
 
 - Uses the nvm node version manager on MacOS and Linux
 - Requires make, nvm, node, npm
@@ -68,4 +73,14 @@ make
 ## To install Cypress:
 ```
 npm install cypress --save-dev
+```
+
+# Running Cypress
+```
+npx cypress open
+```
+
+Select a browser
+```
+npx cypress run --browser {browser-name}
 ```
