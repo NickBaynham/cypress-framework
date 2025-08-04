@@ -15,7 +15,7 @@ make is a build automation tool used to run workflows from a Makefile. If it’s
 Most macOS systems come with make via the Xcode Command Line Tools. To install (or ensure it’s installed):
 ```
 xcode-select --install
-``
+```
 Then verify:
 ```
 make --version
